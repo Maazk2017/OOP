@@ -1,0 +1,13 @@
+G:\Uni Assignments Notes Books\2sem\OOP LAB\Lab12\Lab12\bin\Debug\Lab12.exe
+G:\Uni Assignments Notes Books\2sem\OOP LAB\Lab12\Lab12\obj\Debug\Lab12.csproj.AssemblyReference.cache
+G:\Uni Assignments Notes Books\2sem\OOP LAB\Lab12\Lab12\obj\Debug\Lab12.Form1.resources
+G:\Uni Assignments Notes Books\2sem\OOP LAB\Lab12\Lab12\obj\Debug\Lab12.StudentEnrollment.resources
+G:\Uni Assignments Notes Books\2sem\OOP LAB\Lab12\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+G:\Uni Assignments Notes Books\2sem\OOP LAB\Lab12\Lab12\bin\Debug\Lab12.exe.config
+G:\Uni Assignments Notes Books\2sem\OOP LAB\Lab12\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+G:\Uni Assignments Notes Books\2sem\OOP LAB\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+G:\Uni Assignments Notes Books\2sem\OOP LAB\Lab12\Lab12\obj\Debug\Lab12.exe
+G:\Uni Assignments Notes Books\2sem\OOP LAB\Lab12\Lab12\obj\Debug\Lab12.pdb
+G:\Uni Assignments Notes Books\2sem\OOP LAB\Lab12\Lab12\bin\Debug\Lab12.pdb
+G:\Uni Assignments Notes Books\2sem\OOP LAB\Lab12\Lab12\obj\Debug\Lab12.Calculator.resources
+G:\Uni Assignments Notes Books\2sem\OOP LAB\Lab12\Lab12\obj\Debug\Lab12.Assignment.GradeCalculator.resources
