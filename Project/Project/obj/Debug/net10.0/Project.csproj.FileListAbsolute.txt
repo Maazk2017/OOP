@@ -1,0 +1,14 @@
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Project\Project\bin\Debug\net10.0\Project.exe
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Project\Project\bin\Debug\net10.0\Project.deps.json
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Project\Project\bin\Debug\net10.0\Project.runtimeconfig.json
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Project\Project\bin\Debug\net10.0\Project.dll
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Project\Project\bin\Debug\net10.0\Project.pdb
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Project\Project\obj\Debug\net10.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Project\Project\obj\Debug\net10.0\Project.AssemblyInfoInputs.cache
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Project\Project\obj\Debug\net10.0\Project.AssemblyInfo.cs
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Project\Project\obj\Debug\net10.0\Project.csproj.CoreCompileInputs.cache
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Project\Project\obj\Debug\net10.0\Project.dll
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Project\Project\obj\Debug\net10.0\refint\Project.dll
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Project\Project\obj\Debug\net10.0\Project.pdb
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Project\Project\obj\Debug\net10.0\Project.genruntimeconfig.cache
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Project\Project\obj\Debug\net10.0\ref\Project.dll
