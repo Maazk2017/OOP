@@ -1,0 +1,14 @@
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab01_Intro\Lab01_Intro\bin\Debug\net10.0\Lab01_Intro.exe
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab01_Intro\Lab01_Intro\bin\Debug\net10.0\Lab01_Intro.deps.json
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab01_Intro\Lab01_Intro\bin\Debug\net10.0\Lab01_Intro.runtimeconfig.json
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab01_Intro\Lab01_Intro\bin\Debug\net10.0\Lab01_Intro.dll
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab01_Intro\Lab01_Intro\bin\Debug\net10.0\Lab01_Intro.pdb
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab01_Intro\Lab01_Intro\obj\Debug\net10.0\Lab01_Intro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab01_Intro\Lab01_Intro\obj\Debug\net10.0\Lab01_Intro.AssemblyInfoInputs.cache
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab01_Intro\Lab01_Intro\obj\Debug\net10.0\Lab01_Intro.AssemblyInfo.cs
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab01_Intro\Lab01_Intro\obj\Debug\net10.0\Lab01_Intro.csproj.CoreCompileInputs.cache
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab01_Intro\Lab01_Intro\obj\Debug\net10.0\Lab01_Intro.dll
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab01_Intro\Lab01_Intro\obj\Debug\net10.0\refint\Lab01_Intro.dll
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab01_Intro\Lab01_Intro\obj\Debug\net10.0\Lab01_Intro.pdb
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab01_Intro\Lab01_Intro\obj\Debug\net10.0\Lab01_Intro.genruntimeconfig.cache
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab01_Intro\Lab01_Intro\obj\Debug\net10.0\ref\Lab01_Intro.dll
