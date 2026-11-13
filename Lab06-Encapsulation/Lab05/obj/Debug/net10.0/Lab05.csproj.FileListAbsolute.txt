@@ -1,0 +1,14 @@
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab05\Lab05\bin\Debug\net10.0\Lab05.exe
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab05\Lab05\bin\Debug\net10.0\Lab05.deps.json
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab05\Lab05\bin\Debug\net10.0\Lab05.runtimeconfig.json
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab05\Lab05\bin\Debug\net10.0\Lab05.dll
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab05\Lab05\bin\Debug\net10.0\Lab05.pdb
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab05\Lab05\obj\Debug\net10.0\Lab05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab05\Lab05\obj\Debug\net10.0\Lab05.AssemblyInfoInputs.cache
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab05\Lab05\obj\Debug\net10.0\Lab05.AssemblyInfo.cs
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab05\Lab05\obj\Debug\net10.0\Lab05.csproj.CoreCompileInputs.cache
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab05\Lab05\obj\Debug\net10.0\Lab05.dll
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab05\Lab05\obj\Debug\net10.0\refint\Lab05.dll
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab05\Lab05\obj\Debug\net10.0\Lab05.pdb
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab05\Lab05\obj\Debug\net10.0\Lab05.genruntimeconfig.cache
+D:\Uni Assignments Notes Books\2sem\OOP LAB\Lab05\Lab05\obj\Debug\net10.0\ref\Lab05.dll
