@@ -1,0 +1,11 @@
+D:\Uni Assignments Notes Books\2sem\OOP LAB\FormPracticeQuestions\FormPracticeQuestions\bin\Debug\FormPracticeQuestions.exe.config
+D:\Uni Assignments Notes Books\2sem\OOP LAB\FormPracticeQuestions\FormPracticeQuestions\bin\Debug\FormPracticeQuestions.exe
+D:\Uni Assignments Notes Books\2sem\OOP LAB\FormPracticeQuestions\FormPracticeQuestions\bin\Debug\FormPracticeQuestions.pdb
+D:\Uni Assignments Notes Books\2sem\OOP LAB\FormPracticeQuestions\FormPracticeQuestions\obj\Debug\FormPracticeQuestions.csproj.AssemblyReference.cache
+D:\Uni Assignments Notes Books\2sem\OOP LAB\FormPracticeQuestions\FormPracticeQuestions\obj\Debug\FormPracticeQuestions.Shopping.resources
+D:\Uni Assignments Notes Books\2sem\OOP LAB\FormPracticeQuestions\FormPracticeQuestions\obj\Debug\FormPracticeQuestions.Properties.Resources.resources
+D:\Uni Assignments Notes Books\2sem\OOP LAB\FormPracticeQuestions\FormPracticeQuestions\obj\Debug\FormPracticeQuestions.csproj.GenerateResource.cache
+D:\Uni Assignments Notes Books\2sem\OOP LAB\FormPracticeQuestions\FormPracticeQuestions\obj\Debug\FormPracticeQuestions.csproj.CoreCompileInputs.cache
+D:\Uni Assignments Notes Books\2sem\OOP LAB\FormPracticeQuestions\FormPracticeQuestions\obj\Debug\FormPracticeQuestions.exe
+D:\Uni Assignments Notes Books\2sem\OOP LAB\FormPracticeQuestions\FormPracticeQuestions\obj\Debug\FormPracticeQuestions.pdb
+D:\Uni Assignments Notes Books\2sem\OOP LAB\FormPracticeQuestions\FormPracticeQuestions\obj\Debug\FormPracticeQuestions.MathCalculator.resources
